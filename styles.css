@@ -312,3 +312,11 @@ html {
 ::selection {
     background-color: rgba(105, 160, 215, .4);
 }
+
+        body {
+  font-family: 'Playfair Display', serif !important;
+}
+
+h1, h2, h3, h4, h5, h6, p, span {
+  font-family: 'Playfair Display', serif !important;
+}
