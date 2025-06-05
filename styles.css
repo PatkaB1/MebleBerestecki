@@ -320,3 +320,24 @@ html {
 h1, h2, h3, h4, h5, h6, p, span {
   font-family: 'Playfair Display', serif !important;
 }
+
+
+        .hb-si {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.hb-ci {
+  margin-left: auto; /* przesuwa do prawej strony */
+  text-align: right;
+}
+
+.ci-mail a,
+.ci-phone a {
+  color: #fff; /* lub inny kolor tekstu */
+  text-decoration: none;
+  font-size: 14px;
+  display: block;
+}
