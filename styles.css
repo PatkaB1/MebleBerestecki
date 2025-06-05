@@ -1,0 +1,319 @@
+.sc-ml .claim-gray > span > span {
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 0.9375rem 0 0 rgba(0, 0, 0, 0.5), -0.9375rem 0 0 rgba(0, 0, 0, 0.5);
+}
+
+.claim-wb .sit-c {
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+}
+
+.sit .sit-c {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+    display: inline;
+    font-size: inherit;
+    padding: 0;
+    position: static;
+}
+
+body div[data-wnd_mvc_type="wnd.pc.PageZone"] * {
+    transition: none;
+}
+
+.wnd-wsw {
+    position: relative;
+    min-height: 1em;
+    min-width: 1em;
+    -webkit-user-select: auto !important;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-nbsp-mode: inherit !important;
+    outline: 0;
+}
+
+*[contenteditable=true] {
+    outline: 0;
+}
+
+.wnd-touchwysiwyg {
+    display: block;
+    outline: 0;
+}
+
+.l-w *, body {
+    box-sizing: border-box;
+}
+
+span {
+    -webkit-line-break: auto;
+    line-break: auto;
+}
+
+* {
+    -webkit-tap-highlight-color: transparent !important;
+}
+
+span[Attributes Style] {
+    -webkit-user-modify: read-write;
+    overflow-wrap: break-word;
+    -webkit-line-break: after-white-space;
+}
+
+@media screen and (min-width: 37.5em) {
+    .claim-wb .sit-w {
+        text-wrap: balance;
+    }
+}
+
+.claim-wb .sit-w {
+    text-wrap: wrap;
+    padding: 0.3125rem 1.5625rem;
+}
+
+.t-t-fw-m h1.claim .playfair-display {
+    font-weight: 400;
+}
+
+media="screen and (min-width: 37.5em)" {
+    @media screen and (min-width: 56.25em) {
+        .claim-wb.alegreya-sans.claim-52, .claim-wb.alegreya-sans.claim-55, .claim-wb.alegreya-sans.claim-56, .claim-wb.alegreya-sans.claim-58, .claim-wb.alegreya-sans.claim-60, .claim-wb.alegreya.claim-52, .claim-wb.alegreya.claim-55, .claim-wb.alegreya.claim-56, .claim-wb.alegreya.claim-58, .claim-wb.alegreya.claim-60, .claim-wb.allura.claim-52, .claim-wb.allura.claim-55, .claim-wb.allura.claim-56, .claim-wb.allura.claim-58, .claim-wb.allura.claim-60, .claim-wb.cormorant.claim-52, .claim-wb.cormorant.claim-55, .claim-wb.cormorant.claim-56, .claim-wb.cormorant.claim-58, .claim-wb.cormorant.claim-60, .claim-wb.jp-logo-type-gothic.claim-52, .claim-wb.jp-logo-type-gothic.claim-55, .claim-wb.jp-logo-type-gothic.claim-56, .claim-wb.jp-logo-type-gothic.claim-58, .claim-wb.jp-logo-type-gothic.claim-60, .claim-wb.jp-utsukushi-mincho.claim-52, .claim-wb.jp-utsukushi-mincho.claim-55, .claim-wb.jp-utsukushi-mincho.claim-56, .claim-wb.jp-utsukushi-mincho.claim-58, .claim-wb.jp-utsukushi-mincho.claim-60, .claim-wb.jp-wada-lab-maru-gothic.claim-52, .claim-wb.jp-wada-lab-maru-gothic.claim-55, .claim-wb.jp-wada-lab-maru-gothic.claim-56, .claim-wb.jp-wada-lab-maru-gothic.claim-58, .claim-wb.jp-wada-lab-maru-gothic.claim-60, .claim-wb.life-savers.claim-52, .claim-wb.life-savers.claim-55, .claim-wb.life-savers.claim-56, .claim-wb.life-savers.claim-58, .claim-wb.life-savers.claim-60, .claim-wb.literata.claim-52, .claim-wb.literata.claim-55, .claim-wb.literata.claim-56, .claim-wb.literata.claim-58, .claim-wb.literata.claim-60, .claim-wb.lora.claim-52, .claim-wb.lora.claim-55, .claim-wb.lora.claim-56, .claim-wb.lora.claim-58, .claim-wb.lora.claim-60, .claim-wb.marcellix.claim-52, .claim-wb.marcellix.claim-55, .claim-wb.marcellix.claim-56, .claim-wb.marcellix.claim-58, .claim-wb.marcellix.claim-60, .claim-wb.marcellus.claim-52, .claim-wb.marcellus.claim-55, .claim-wb.marcellus.claim-56, .claim-wb.marcellus.claim-58, .claim-wb.marcellus.claim-60, .claim-wb.merriweather.claim-52, .claim-wb.merriweather.claim-55, .claim-wb.merriweather.claim-56, .claim-wb.merriweather.claim-58, .claim-wb.merriweather.claim-60, .claim-wb.montserrat.claim-52, .claim-wb.montserrat.claim-55, .claim-wb.montserrat.claim-56, .claim-wb.montserrat.claim-58, .claim-wb.montserrat.claim-60, .claim-wb.noto-sans.claim-52, .claim-wb.noto-sans.claim-55, .claim-wb.noto-sans.claim-56, .claim-wb.noto-sans.claim-58, .claim-wb.noto-sans.claim-60, .claim-wb.noto-serif.claim-52, .claim-wb.noto-serif.claim-55, .claim-wb.noto-serif.claim-56, .claim-wb.noto-serif.claim-58, .claim-wb.noto-serif.claim-60, .claim-wb.piazzolla.claim-52, .claim-wb.piazzolla.claim-55, .claim-wb.piazzolla.claim-56, .claim-wb.piazzolla.claim-58, .claim-wb.piazzolla.claim-60, .claim-wb.playfair-display.claim-52, .claim-wb.playfair-display.claim-55, .claim-wb.playfair-display.claim-56, .claim-wb.playfair-display.claim-58, .claim-wb.playfair-display.claim-60, .claim-wb.quicksand.claim-52, .claim-wb.quicksand.claim-55, .claim-wb.quicksand.claim-56, .claim-wb.quicksand.claim-58, .claim-wb.quicksand.claim-60, .claim-wb.rajdhani.claim-52, .claim-wb.rajdhani.claim-55, .claim-wb.rajdhani.claim-56, .claim-wb.rajdhani.claim-58, .claim-wb.rajdhani.claim-60, .claim-wb.reklame-script.claim-52, .claim-wb.reklame-script.claim-55, .claim-wb.reklame-script.claim-56, .claim-wb.reklame-script.claim-58, .claim-wb.reklame-script.claim-60, .claim-wb.tinos.claim-52, .claim-wb.tinos.claim-55, .claim-wb.tinos.claim-56, .claim-wb.tinos.claim-58, .claim-wb.tinos.claim-60 {
+            line-height: 170%;
+        }
+    }
+}
+
+media="screen and (min-width: 37.5em)" {
+    @media screen and (min-width: 37.5em) {
+        .claim-wb.alegreya-sans.claim-52, .claim-wb.alegreya-sans.claim-55, .claim-wb.alegreya-sans.claim-56, .claim-wb.alegreya-sans.claim-58, .claim-wb.alegreya-sans.claim-60, .claim-wb.alegreya.claim-52, .claim-wb.alegreya.claim-55, .claim-wb.alegreya.claim-56, .claim-wb.alegreya.claim-58, .claim-wb.alegreya.claim-60, .claim-wb.allura.claim-52, .claim-wb.allura.claim-55, .claim-wb.allura.claim-56, .claim-wb.allura.claim-58, .claim-wb.allura.claim-60, .claim-wb.cormorant.claim-52, .claim-wb.cormorant.claim-55, .claim-wb.cormorant.claim-56, .claim-wb.cormorant.claim-58, .claim-wb.cormorant.claim-60, .claim-wb.jp-logo-type-gothic.claim-52, .claim-wb.jp-logo-type-gothic.claim-55, .claim-wb.jp-logo-type-gothic.claim-56, .claim-wb.jp-logo-type-gothic.claim-58, .claim-wb.jp-logo-type-gothic.claim-60, .claim-wb.jp-utsukushi-mincho.claim-52, .claim-wb.jp-utsukushi-mincho.claim-55, .claim-wb.jp-utsukushi-mincho.claim-56, .claim-wb.jp-utsukushi-mincho.claim-58, .claim-wb.jp-utsukushi-mincho.claim-60, .claim-wb.jp-wada-lab-maru-gothic.claim-52, .claim-wb.jp-wada-lab-maru-gothic.claim-55, .claim-wb.jp-wada-lab-maru-gothic.claim-56, .claim-wb.jp-wada-lab-maru-gothic.claim-58, .claim-wb.jp-wada-lab-maru-gothic.claim-60, .claim-wb.life-savers.claim-52, .claim-wb.life-savers.claim-55, .claim-wb.life-savers.claim-56, .claim-wb.life-savers.claim-58, .claim-wb.life-savers.claim-60, .claim-wb.literata.claim-52, .claim-wb.literata.claim-55, .claim-wb.literata.claim-56, .claim-wb.literata.claim-58, .claim-wb.literata.claim-60, .claim-wb.lora.claim-52, .claim-wb.lora.claim-55, .claim-wb.lora.claim-56, .claim-wb.lora.claim-58, .claim-wb.lora.claim-60, .claim-wb.marcellix.claim-52, .claim-wb.marcellix.claim-55, .claim-wb.marcellix.claim-56, .claim-wb.marcellix.claim-58, .claim-wb.marcellix.claim-60, .claim-wb.marcellus.claim-52, .claim-wb.marcellus.claim-55, .claim-wb.marcellus.claim-56, .claim-wb.marcellus.claim-58, .claim-wb.marcellus.claim-60, .claim-wb.merriweather.claim-52, .claim-wb.merriweather.claim-55, .claim-wb.merriweather.claim-56, .claim-wb.merriweather.claim-58, .claim-wb.merriweather.claim-60, .claim-wb.montserrat.claim-52, .claim-wb.montserrat.claim-55, .claim-wb.montserrat.claim-56, .claim-wb.montserrat.claim-58, .claim-wb.montserrat.claim-60, .claim-wb.noto-sans.claim-52, .claim-wb.noto-sans.claim-55, .claim-wb.noto-sans.claim-56, .claim-wb.noto-sans.claim-58, .claim-wb.noto-sans.claim-60, .claim-wb.noto-serif.claim-52, .claim-wb.noto-serif.claim-55, .claim-wb.noto-serif.claim-56, .claim-wb.noto-serif.claim-58, .claim-wb.noto-serif.claim-60, .claim-wb.piazzolla.claim-52, .claim-wb.piazzolla.claim-55, .claim-wb.piazzolla.claim-56, .claim-wb.piazzolla.claim-58, .claim-wb.piazzolla.claim-60, .claim-wb.playfair-display.claim-52, .claim-wb.playfair-display.claim-55, .claim-wb.playfair-display.claim-56, .claim-wb.playfair-display.claim-58, .claim-wb.playfair-display.claim-60, .claim-wb.quicksand.claim-52, .claim-wb.quicksand.claim-55, .claim-wb.quicksand.claim-56, .claim-wb.quicksand.claim-58, .claim-wb.quicksand.claim-60, .claim-wb.rajdhani.claim-52, .claim-wb.rajdhani.claim-55, .claim-wb.rajdhani.claim-56, .claim-wb.rajdhani.claim-58, .claim-wb.rajdhani.claim-60, .claim-wb.reklame-script.claim-52, .claim-wb.reklame-script.claim-55, .claim-wb.reklame-script.claim-56, .claim-wb.reklame-script.claim-58, .claim-wb.reklame-script.claim-60, .claim-wb.tinos.claim-52, .claim-wb.tinos.claim-55, .claim-wb.tinos.claim-56, .claim-wb.tinos.claim-58, .claim-wb.tinos.claim-60 {
+            line-height: 177%;
+        }
+    }
+}
+
+
+.claim-wb.alegreya-sans.claim-52, .claim-wb.alegreya-sans.claim-55, .claim-wb.alegreya-sans.claim-56, .claim-wb.alegreya-sans.claim-58, .claim-wb.alegreya.claim-52, .claim-wb.alegreya.claim-55, .claim-wb.alegreya.claim-56, .claim-wb.alegreya.claim-58, .claim-wb.allura.claim-52, .claim-wb.allura.claim-55, .claim-wb.allura.claim-56, .claim-wb.allura.claim-58, .claim-wb.cormorant.claim-52, .claim-wb.cormorant.claim-55, .claim-wb.cormorant.claim-56, .claim-wb.cormorant.claim-58, .claim-wb.jp-logo-type-gothic.claim-52, .claim-wb.jp-logo-type-gothic.claim-55, .claim-wb.jp-logo-type-gothic.claim-56, .claim-wb.jp-logo-type-gothic.claim-58, .claim-wb.jp-utsukushi-mincho.claim-52, .claim-wb.jp-utsukushi-mincho.claim-55, .claim-wb.jp-utsukushi-mincho.claim-56, .claim-wb.jp-utsukushi-mincho.claim-58, .claim-wb.jp-wada-lab-maru-gothic.claim-52, .claim-wb.jp-wada-lab-maru-gothic.claim-55, .claim-wb.jp-wada-lab-maru-gothic.claim-56, .claim-wb.jp-wada-lab-maru-gothic.claim-58, .claim-wb.life-savers.claim-52, .claim-wb.life-savers.claim-55, .claim-wb.life-savers.claim-56, .claim-wb.life-savers.claim-58, .claim-wb.literata.claim-52, .claim-wb.literata.claim-55, .claim-wb.literata.claim-56, .claim-wb.literata.claim-58, .claim-wb.lora.claim-52, .claim-wb.lora.claim-55, .claim-wb.lora.claim-56, .claim-wb.lora.claim-58, .claim-wb.marcellix.claim-52, .claim-wb.marcellix.claim-55, .claim-wb.marcellix.claim-56, .claim-wb.marcellix.claim-58, .claim-wb.marcellus.claim-52, .claim-wb.marcellus.claim-55, .claim-wb.marcellus.claim-56, .claim-wb.marcellus.claim-58, .claim-wb.merriweather.claim-52, .claim-wb.merriweather.claim-55, .claim-wb.merriweather.claim-56, .claim-wb.merriweather.claim-58, .claim-wb.montserrat.claim-52, .claim-wb.montserrat.claim-55, .claim-wb.montserrat.claim-56, .claim-wb.montserrat.claim-58, .claim-wb.noto-sans.claim-52, .claim-wb.noto-sans.claim-55, .claim-wb.noto-sans.claim-56, .claim-wb.noto-sans.claim-58, .claim-wb.noto-serif.claim-52, .claim-wb.noto-serif.claim-55, .claim-wb.noto-serif.claim-56, .claim-wb.noto-serif.claim-58, .claim-wb.piazzolla.claim-52, .claim-wb.piazzolla.claim-55, .claim-wb.piazzolla.claim-56, .claim-wb.piazzolla.claim-58, .claim-wb.playfair-display.claim-52, .claim-wb.playfair-display.claim-55, .claim-wb.playfair-display.claim-56, .claim-wb.playfair-display.claim-58, .claim-wb.quicksand.claim-52, .claim-wb.quicksand.claim-55, .claim-wb.quicksand.claim-56, .claim-wb.quicksand.claim-58, .claim-wb.rajdhani.claim-52, .claim-wb.rajdhani.claim-55, .claim-wb.rajdhani.claim-56, .claim-wb.rajdhani.claim-58, .claim-wb.reklame-script.claim-52, .claim-wb.reklame-script.claim-55, .claim-wb.reklame-script.claim-56, .claim-wb.reklame-script.claim-58, .claim-wb.tinos.claim-52, .claim-wb.tinos.claim-55, .claim-wb.tinos.claim-56, .claim-wb.tinos.claim-58
+{
+    line-height: 183%;
+}
+h1.claim .playfair-display {
+    letter-spacing: 0;
+}
+.sc-ml .claim-gray {
+    color: #fff;
+}
+ media="screen and (min-width: 37.5em)" {
+    @media screen and (min-width: 56.25em) {
+        .claim .claim-52 {
+            font-size: 3rem;
+        }
+    }
+}
+ media="screen and (min-width: 37.5em)" {
+    @media screen and (min-width: 37.5em) {
+        .claim .claim-52 {
+            font-size: 2.625rem;
+        }
+    }
+}
+.claim .claim-52 {
+    font-size: 2.25rem;
+}
+.playfair-display {
+    font-weight: 400;
+    font-family: Playfair Display Flex, Playfair-Display-Fallback, Apple Color Emoji, Noto Color Emoji, serif;
+}
+.claim {
+    line-height: 0;
+}
+.claim {
+    letter-spacing: 0;
+}
+h1 {
+    font-size: 2em;
+    margin: .67em 0;
+}
+user agent stylesheet
+:-webkit-any(article, aside, nav, section) h1 {
+    font-size: 1.5em;
+}
+user agent stylesheet
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+.wnd-page:not(.ac-none) .s:not(.sc-ac,.sc-acd,.sc-acl) {
+    --sbm-accent: var(--ac-color-rgb), 1;
+    --sbm-accent-rgb: var(--ac-color-rgb);
+    --sbm-accentContrast: var(--ac-basic-rgb), 1;
+    --sbm-accentContrast-rgb: var(--ac-basic-rgb);
+    --sbm-link: var(--ac-color-rgb), 1;
+    --sbm-link-rgb: var(--ac-color-rgb);
+}
+.s-hm.s-hm-button.wnd-p-bc, .s-hm.s-hm-button.wnd-p-cc, .s-hm.s-hm-button.wnd-p-tc, .s-hm.s-hm-claims.wnd-p-bc, .s-hm.s-hm-claims.wnd-p-cc, .s-hm.s-hm-claims.wnd-p-tc {
+    text-align: center;
+}
+.sc-ml {
+    --sbm-accent: 0, 0, 0, 0.85;
+    --sbm-accent-rgb: 0, 0, 0;
+    --sbm-accentContrast: 255, 255, 255, 1;
+    --sbm-accentContrast-rgb: 255, 255, 255;
+    --sbm-secondary: 0, 0, 0, 0.12;
+    --sbm-secondary-rgb: 0, 0, 0;
+    --sbm-text: 0, 0, 0, 0.7;
+    --sbm-text-rgb: 0, 0, 0;
+    --sbm-textSecondary: 0, 0, 0, 0.6;
+    --sbm-textSecondary-rgb: 0, 0, 0;
+    --sbm-border: 0, 0, 0, 0.2;
+    --sbm-border-rgb: 0, 0, 0;
+    --sbm-background: 0, 0, 0, 0;
+    --sbm-background-rgb: 0, 0, 0;
+    --sbm-link: 0, 0, 0, 0.85;
+    --sbm-link-rgb: 0, 0, 0;
+    --sbm-success: 45, 178, 71, 1;
+    --sbm-success-rgb: 45, 178, 71;
+    --sbm-error: 218, 21, 21, 1;
+    --sbm-error-rgb: 218, 21, 21;
+    --sbm-warning: 234, 168, 26, 1;
+    --sbm-warning-rgb: 234, 168, 26;
+}
+.sc-ml {
+    color: rgba(0, 0, 0, .7);
+}
+.t-p-fw-l .t {
+    font-weight: 400;
+}
+.t-p-fs-m .t {
+    font-size: 1.075rem;
+}
+.t {
+    letter-spacing: 0;
+}
+.t {
+    line-height: 1.6;
+    -webkit-font-smoothing: subpixel-antialiased;
+    font-style: normal;
+}
+.t {
+    font-family: Metropolis, Metropolis-Fallback, Apple Color Emoji, Noto Color Emoji, sans-serif;
+}
+body {
+    --google-font-color-notocoloremoji: colrv1;
+}
+:root {
+    --sbm-modal-font: Metropolis;
+}
+:root {
+    --ac-color: #141b1e;
+    --ac-color-h: 198;
+    --ac-color-s: 20%;
+    --ac-color-l: 9.803921568627452%;
+    --ac-color-rgb: 20, 27, 30;
+    --ac-acs: 96;
+    --ac-acl: 20;
+    --ac-acd: -40;
+    --ac-basic: #fff;
+    --ac-basic-rgb: 255, 255, 255;
+    --ac-basic-h: 0;
+    --ac-basic-s: 0%;
+    --ac-basic-l: 100%;
+}
+:root {
+    --ac-bg-soft: hsl(198, 20%,calc(9.803921568627452% + ((100% - 9.803921568627452%) / 100 * 96)));
+    --ac-bg-soft-cms: hsl(198, 20%,calc(9.803921568627452% + ((100% - 9.803921568627452%) / 100 * (96 - 20))));
+    --ac-bg-light: hsl(198, 20%,calc(9.803921568627452% + ((100% - 9.803921568627452%) / 100 * 20)));
+    --ac-bg-dark: hsl(198, 20%,calc(9.803921568627452% + (9.803921568627452% / 100 * -40)));
+    --ac-icon-outline-lbg: hsl(198, 20%,calc(9.803921568627452% + (9.803921568627452% / 100 * -14)));
+    --ac-icon-border-lbg: hsl(198, 20%,calc(9.803921568627452% + ((100% - 9.803921568627452%) / 100 * 20)));
+    --ac-icon-outline-dbg: hsl(198, 20%,calc(9.803921568627452% + ((100% - 9.803921568627452%) / 100 * 34)));
+    --ac-icon-border-dbg: hsl(198, 20%,calc(9.803921568627452% + (9.803921568627452% / 100 * -22)));
+}
+:root {
+    --sbm-accent: 255, 109, 0, 1;
+    --sbm-accent-rgb: 255, 109, 0;
+    --sbm-accentContrast: 141, 58, 0, 1;
+    --sbm-accentContrast-rgb: 141, 58, 0;
+    --sbm-secondary: 255, 255, 255, 1;
+    --sbm-secondary-rgb: 255, 255, 255;
+    --sbm-text: 0, 0, 0, 1;
+    --sbm-text-rgb: 0, 0, 0;
+    --sbm-textSecondary: 102, 102, 120, 1;
+    --sbm-textSecondary-rgb: 102, 102, 120;
+    --sbm-border: 224, 224, 224, 1;
+    --sbm-border-rgb: 224, 224, 224;
+    --sbm-background: 245, 245, 245, 1;
+    --sbm-background-rgb: 245, 245, 245;
+    --sbm-link: 255, 109, 0, 1;
+    --sbm-link-rgb: 255, 109, 0;
+    --sbm-success: 76, 175, 80, 1;
+    --sbm-success-rgb: 76, 175, 80;
+    --sbm-error: 244, 67, 54, 1;
+    --sbm-error-rgb: 244, 67, 54;
+    --sbm-warning: 255, 152, 0, 1;
+    --sbm-warning-rgb: 255, 152, 0;
+    --sbm-modal-font: "Arial", sans-serif;
+}
+html {
+    width: 100%;
+    height: 100%;
+    -ms-overflow-style: scrollbar;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+::selection {
+    background-color: rgba(105, 160, 215, .4);
+}
+::selection {
+    background-color: rgba(105, 160, 215, .4);
+}
+::selection {
+    background-color: rgba(105, 160, 215, .4);
+}
+::selection {
+    background-color: rgba(105, 160, 215, .4);
+}
+::selection {
+    background-color: rgba(105, 160, 215, .4);
+}
+::selection {
+    background-color: rgba(105, 160, 215, .4);
+}
+::selection {
+    background-color: rgba(105, 160, 215, .4);
+}
+::selection {
+    background-color: rgba(105, 160, 215, .4);
+}
+::selection {
+    background-color: rgba(105, 160, 215, .4);
+}
+::selection {
+    background-color: rgba(105, 160, 215, .4);
+}
+::selection {
+    background-color: rgba(105, 160, 215, .4);
+}
+::selection {
+    background-color: rgba(105, 160, 215, .4);
+}
+::selection {
+    background-color: rgba(105, 160, 215, .4);
+}
+::selection {
+    background-color: rgba(105, 160, 215, .4);
+}
+::selection {
+    background-color: rgba(105, 160, 215, .4);
+}
+::selection {
+    background-color: rgba(105, 160, 215, .4);
+}
+::selection {
+    background-color: rgba(105, 160, 215, .4);
+}
