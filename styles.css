@@ -368,3 +368,7 @@ h1, h2, h3, h4, h5, h6, p, span {
 .contact-container span {
   color: #999;
 }
+.top-bar {
+  background-color: #888888; /* szary kolor */
+  /* reszta styli bez zmian */
+}
