@@ -342,3 +342,29 @@ h1, h2, h3, h4, h5, h6, p, span {
   display: block;
 }
 
+.top-bar {
+  width: 100%;
+  background-color: #f1f1f1; /* jasny pasek */
+  padding: 8px 20px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* delikatny cień */
+  font-family: Arial, sans-serif;
+}
+
+.contact-container {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  font-size: 14px;
+}
+
+.contact-container a {
+  color: #333;
+  text-decoration: none;
+}
+
+.contact-container span {
+  color: #999;
+}
