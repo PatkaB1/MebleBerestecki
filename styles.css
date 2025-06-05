@@ -1,3 +1,5 @@
+element.style {
+}
 .sc-ml .claim-gray > span > span {
     background-color: rgba(0, 0, 0, 0.5);
     box-shadow: 0.9375rem 0 0 rgba(0, 0, 0, 0.5), -0.9375rem 0 0 rgba(0, 0, 0, 0.5);
@@ -77,20 +79,16 @@ span[Attributes Style] {
     font-weight: 400;
 }
 
-media="screen and (min-width: 37.5em)" {
+
     @media screen and (min-width: 56.25em) {
         .claim-wb.alegreya-sans.claim-52, .claim-wb.alegreya-sans.claim-55, .claim-wb.alegreya-sans.claim-56, .claim-wb.alegreya-sans.claim-58, .claim-wb.alegreya-sans.claim-60, .claim-wb.alegreya.claim-52, .claim-wb.alegreya.claim-55, .claim-wb.alegreya.claim-56, .claim-wb.alegreya.claim-58, .claim-wb.alegreya.claim-60, .claim-wb.allura.claim-52, .claim-wb.allura.claim-55, .claim-wb.allura.claim-56, .claim-wb.allura.claim-58, .claim-wb.allura.claim-60, .claim-wb.cormorant.claim-52, .claim-wb.cormorant.claim-55, .claim-wb.cormorant.claim-56, .claim-wb.cormorant.claim-58, .claim-wb.cormorant.claim-60, .claim-wb.jp-logo-type-gothic.claim-52, .claim-wb.jp-logo-type-gothic.claim-55, .claim-wb.jp-logo-type-gothic.claim-56, .claim-wb.jp-logo-type-gothic.claim-58, .claim-wb.jp-logo-type-gothic.claim-60, .claim-wb.jp-utsukushi-mincho.claim-52, .claim-wb.jp-utsukushi-mincho.claim-55, .claim-wb.jp-utsukushi-mincho.claim-56, .claim-wb.jp-utsukushi-mincho.claim-58, .claim-wb.jp-utsukushi-mincho.claim-60, .claim-wb.jp-wada-lab-maru-gothic.claim-52, .claim-wb.jp-wada-lab-maru-gothic.claim-55, .claim-wb.jp-wada-lab-maru-gothic.claim-56, .claim-wb.jp-wada-lab-maru-gothic.claim-58, .claim-wb.jp-wada-lab-maru-gothic.claim-60, .claim-wb.life-savers.claim-52, .claim-wb.life-savers.claim-55, .claim-wb.life-savers.claim-56, .claim-wb.life-savers.claim-58, .claim-wb.life-savers.claim-60, .claim-wb.literata.claim-52, .claim-wb.literata.claim-55, .claim-wb.literata.claim-56, .claim-wb.literata.claim-58, .claim-wb.literata.claim-60, .claim-wb.lora.claim-52, .claim-wb.lora.claim-55, .claim-wb.lora.claim-56, .claim-wb.lora.claim-58, .claim-wb.lora.claim-60, .claim-wb.marcellix.claim-52, .claim-wb.marcellix.claim-55, .claim-wb.marcellix.claim-56, .claim-wb.marcellix.claim-58, .claim-wb.marcellix.claim-60, .claim-wb.marcellus.claim-52, .claim-wb.marcellus.claim-55, .claim-wb.marcellus.claim-56, .claim-wb.marcellus.claim-58, .claim-wb.marcellus.claim-60, .claim-wb.merriweather.claim-52, .claim-wb.merriweather.claim-55, .claim-wb.merriweather.claim-56, .claim-wb.merriweather.claim-58, .claim-wb.merriweather.claim-60, .claim-wb.montserrat.claim-52, .claim-wb.montserrat.claim-55, .claim-wb.montserrat.claim-56, .claim-wb.montserrat.claim-58, .claim-wb.montserrat.claim-60, .claim-wb.noto-sans.claim-52, .claim-wb.noto-sans.claim-55, .claim-wb.noto-sans.claim-56, .claim-wb.noto-sans.claim-58, .claim-wb.noto-sans.claim-60, .claim-wb.noto-serif.claim-52, .claim-wb.noto-serif.claim-55, .claim-wb.noto-serif.claim-56, .claim-wb.noto-serif.claim-58, .claim-wb.noto-serif.claim-60, .claim-wb.piazzolla.claim-52, .claim-wb.piazzolla.claim-55, .claim-wb.piazzolla.claim-56, .claim-wb.piazzolla.claim-58, .claim-wb.piazzolla.claim-60, .claim-wb.playfair-display.claim-52, .claim-wb.playfair-display.claim-55, .claim-wb.playfair-display.claim-56, .claim-wb.playfair-display.claim-58, .claim-wb.playfair-display.claim-60, .claim-wb.quicksand.claim-52, .claim-wb.quicksand.claim-55, .claim-wb.quicksand.claim-56, .claim-wb.quicksand.claim-58, .claim-wb.quicksand.claim-60, .claim-wb.rajdhani.claim-52, .claim-wb.rajdhani.claim-55, .claim-wb.rajdhani.claim-56, .claim-wb.rajdhani.claim-58, .claim-wb.rajdhani.claim-60, .claim-wb.reklame-script.claim-52, .claim-wb.reklame-script.claim-55, .claim-wb.reklame-script.claim-56, .claim-wb.reklame-script.claim-58, .claim-wb.reklame-script.claim-60, .claim-wb.tinos.claim-52, .claim-wb.tinos.claim-55, .claim-wb.tinos.claim-56, .claim-wb.tinos.claim-58, .claim-wb.tinos.claim-60 {
             line-height: 170%;
-        }
-    }
 }
 
-media="screen and (min-width: 37.5em)" {
+
     @media screen and (min-width: 37.5em) {
         .claim-wb.alegreya-sans.claim-52, .claim-wb.alegreya-sans.claim-55, .claim-wb.alegreya-sans.claim-56, .claim-wb.alegreya-sans.claim-58, .claim-wb.alegreya-sans.claim-60, .claim-wb.alegreya.claim-52, .claim-wb.alegreya.claim-55, .claim-wb.alegreya.claim-56, .claim-wb.alegreya.claim-58, .claim-wb.alegreya.claim-60, .claim-wb.allura.claim-52, .claim-wb.allura.claim-55, .claim-wb.allura.claim-56, .claim-wb.allura.claim-58, .claim-wb.allura.claim-60, .claim-wb.cormorant.claim-52, .claim-wb.cormorant.claim-55, .claim-wb.cormorant.claim-56, .claim-wb.cormorant.claim-58, .claim-wb.cormorant.claim-60, .claim-wb.jp-logo-type-gothic.claim-52, .claim-wb.jp-logo-type-gothic.claim-55, .claim-wb.jp-logo-type-gothic.claim-56, .claim-wb.jp-logo-type-gothic.claim-58, .claim-wb.jp-logo-type-gothic.claim-60, .claim-wb.jp-utsukushi-mincho.claim-52, .claim-wb.jp-utsukushi-mincho.claim-55, .claim-wb.jp-utsukushi-mincho.claim-56, .claim-wb.jp-utsukushi-mincho.claim-58, .claim-wb.jp-utsukushi-mincho.claim-60, .claim-wb.jp-wada-lab-maru-gothic.claim-52, .claim-wb.jp-wada-lab-maru-gothic.claim-55, .claim-wb.jp-wada-lab-maru-gothic.claim-56, .claim-wb.jp-wada-lab-maru-gothic.claim-58, .claim-wb.jp-wada-lab-maru-gothic.claim-60, .claim-wb.life-savers.claim-52, .claim-wb.life-savers.claim-55, .claim-wb.life-savers.claim-56, .claim-wb.life-savers.claim-58, .claim-wb.life-savers.claim-60, .claim-wb.literata.claim-52, .claim-wb.literata.claim-55, .claim-wb.literata.claim-56, .claim-wb.literata.claim-58, .claim-wb.literata.claim-60, .claim-wb.lora.claim-52, .claim-wb.lora.claim-55, .claim-wb.lora.claim-56, .claim-wb.lora.claim-58, .claim-wb.lora.claim-60, .claim-wb.marcellix.claim-52, .claim-wb.marcellix.claim-55, .claim-wb.marcellix.claim-56, .claim-wb.marcellix.claim-58, .claim-wb.marcellix.claim-60, .claim-wb.marcellus.claim-52, .claim-wb.marcellus.claim-55, .claim-wb.marcellus.claim-56, .claim-wb.marcellus.claim-58, .claim-wb.marcellus.claim-60, .claim-wb.merriweather.claim-52, .claim-wb.merriweather.claim-55, .claim-wb.merriweather.claim-56, .claim-wb.merriweather.claim-58, .claim-wb.merriweather.claim-60, .claim-wb.montserrat.claim-52, .claim-wb.montserrat.claim-55, .claim-wb.montserrat.claim-56, .claim-wb.montserrat.claim-58, .claim-wb.montserrat.claim-60, .claim-wb.noto-sans.claim-52, .claim-wb.noto-sans.claim-55, .claim-wb.noto-sans.claim-56, .claim-wb.noto-sans.claim-58, .claim-wb.noto-sans.claim-60, .claim-wb.noto-serif.claim-52, .claim-wb.noto-serif.claim-55, .claim-wb.noto-serif.claim-56, .claim-wb.noto-serif.claim-58, .claim-wb.noto-serif.claim-60, .claim-wb.piazzolla.claim-52, .claim-wb.piazzolla.claim-55, .claim-wb.piazzolla.claim-56, .claim-wb.piazzolla.claim-58, .claim-wb.piazzolla.claim-60, .claim-wb.playfair-display.claim-52, .claim-wb.playfair-display.claim-55, .claim-wb.playfair-display.claim-56, .claim-wb.playfair-display.claim-58, .claim-wb.playfair-display.claim-60, .claim-wb.quicksand.claim-52, .claim-wb.quicksand.claim-55, .claim-wb.quicksand.claim-56, .claim-wb.quicksand.claim-58, .claim-wb.quicksand.claim-60, .claim-wb.rajdhani.claim-52, .claim-wb.rajdhani.claim-55, .claim-wb.rajdhani.claim-56, .claim-wb.rajdhani.claim-58, .claim-wb.rajdhani.claim-60, .claim-wb.reklame-script.claim-52, .claim-wb.reklame-script.claim-55, .claim-wb.reklame-script.claim-56, .claim-wb.reklame-script.claim-58, .claim-wb.reklame-script.claim-60, .claim-wb.tinos.claim-52, .claim-wb.tinos.claim-55, .claim-wb.tinos.claim-56, .claim-wb.tinos.claim-58, .claim-wb.tinos.claim-60 {
             line-height: 177%;
-        }
-    }
 }
 
 
@@ -104,19 +102,17 @@ h1.claim .playfair-display {
 .sc-ml .claim-gray {
     color: #fff;
 }
- media="screen and (min-width: 37.5em)" {
+
     @media screen and (min-width: 56.25em) {
         .claim .claim-52 {
             font-size: 3rem;
         }
-    }
 }
- media="screen and (min-width: 37.5em)" {
+
     @media screen and (min-width: 37.5em) {
         .claim .claim-52 {
             font-size: 2.625rem;
         }
-    }
 }
 .claim .claim-52 {
     font-size: 2.25rem;
@@ -135,11 +131,9 @@ h1 {
     font-size: 2em;
     margin: .67em 0;
 }
-user agent stylesheet
 :-webkit-any(article, aside, nav, section) h1 {
     font-size: 1.5em;
 }
-user agent stylesheet
 h1 {
     font-size: 2em;
     font-weight: bold;
