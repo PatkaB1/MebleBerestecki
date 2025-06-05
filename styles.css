@@ -1,3 +1,7 @@
+body {
+  background-color: yellow !important;
+}
+
 element.style {
 }
 .sc-ml .claim-gray > span > span {
