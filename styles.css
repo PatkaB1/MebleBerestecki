@@ -321,23 +321,24 @@ h1, h2, h3, h4, h5, h6, p, span {
   font-family: 'Playfair Display', serif !important;
 }
 
-
-        .hb-si {
+.hb-si {
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
+  padding: 10px;
 }
 
 .hb-ci {
-  margin-left: auto; /* przesuwa do prawej strony */
+  margin-left: auto;
   text-align: right;
 }
 
 .ci-mail a,
 .ci-phone a {
-  color: #fff; /* lub inny kolor tekstu */
+  color: #000; /* CZARNY tekst, żeby był widoczny na białym tle */
   text-decoration: none;
   font-size: 14px;
   display: block;
 }
+
